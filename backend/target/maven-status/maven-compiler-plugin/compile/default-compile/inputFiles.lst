@@ -1,42 +1,42 @@
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\controller\AuthController.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\enums\JobStatus.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\ApplicationService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\JobResponse.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\entity\Job.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\DashboardService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\ResumeTextExtractorService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\controller\JobController.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\entity\User.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\security\JwtRequestFilter.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\controller\ApplicationController.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\AuthService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\controller\AdminController.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\entity\Application.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\EmailService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\ApplicationRequest.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\controller\ResumeController.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\RegisterRequest.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\UserResponse.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\enums\UserRole.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\DashboardStats.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\JobPortalApplication.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\AdminService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\JobRequest.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\AuthResponse.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\UserDetailsServiceImpl.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\repository\UserRepository.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\ResumeResponse.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\AIMatchingService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\JobService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\service\ResumeService.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\repository\ResumeRepository.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\enums\ApplicationStatus.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\security\SecurityConfig.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\AuthRequest.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\enums\JobType.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\security\JwtTokenUtil.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\dto\ApplicationResponse.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\repository\JobRepository.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\entity\Resume.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\repository\ApplicationRepository.java
-C:\Users\MURALIGANESH\OneDrive\Desktop\job-portal-app\backend\src\main\java\com\jobportal\security\JwtAuthenticationEntryPoint.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/JobService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/repository/JobRepository.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/repository/ApplicationRepository.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/controller/AdminController.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/security/JwtTokenUtil.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/security/JwtAuthenticationEntryPoint.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/controller/ResumeController.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/AdminService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/repository/UserRepository.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/entity/Resume.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/DashboardStats.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/ResumeResponse.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/entity/User.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/repository/ResumeRepository.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/security/JwtRequestFilter.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/enums/JobStatus.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/ApplicationResponse.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/controller/JobController.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/ResumeTextExtractorService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/RegisterRequest.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/JobPortalApplication.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/security/SecurityConfig.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/entity/Job.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/enums/UserRole.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/controller/ApplicationController.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/JobResponse.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/ResumeService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/entity/Application.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/UserResponse.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/EmailService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/AuthResponse.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/controller/AuthController.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/ApplicationService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/UserDetailsServiceImpl.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/enums/ApplicationStatus.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/JobRequest.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/AuthService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/ApplicationRequest.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/dto/AuthRequest.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/DashboardService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/service/AIMatchingService.java
+/Users/daiwikvalaboju/JOB PORTAL/Job-Portal-Application/backend/src/main/java/com/jobportal/enums/JobType.java
